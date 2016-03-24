@@ -14,6 +14,4 @@
 3.效果：
 
 ![oc](/res/img/blog/2015/1/getImageColor/imageColor1.png)
-![oc](/res/img/blog/2015/1/getImageColor/imageColor2.png)
-![oc](/res/img/blog/2015/1/getImageColor/imageColor3.png)
-![oc](/res/img/blog/2015/1/getImageColor/imageColor4.png)
+
