@@ -13,5 +13,5 @@
     
 3.效果：
 
-![oc](/res/img/blog/2015/1/getImageColor/imageColor1.png)
+![照片取色Demo效果图](/res/img/blog/2015/1/getImageColor/照片取色Demo效果图.gif)
 
